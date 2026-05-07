@@ -73,6 +73,5 @@ Foreign key relationships
 Sharvil Bookshet 
 📍 Pune, Maharashtra
 sharvilbookshet19@gmail.com
-Your Name
 📍 Nagpur, Maharashtra
 🔗 LinkedIn | GitHub
