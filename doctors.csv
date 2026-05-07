@@ -1,0 +1,11 @@
+doctor_id,first_name,last_name,specialization,phone,email,experience_years,salary,ward,shift,available
+101,Arjun,Mehta,General Physician,9911223344,arjun.mehta@hospital.com,15,95000,General,Morning,true
+102,Sneha,Reddy,Cardiologist,9922334455,sneha.reddy@hospital.com,12,150000,ICU,Evening,true
+103,Rajesh,Iyer,Orthopedic,9933445566,rajesh.iyer@hospital.com,18,130000,Ortho,Morning,true
+104,Vivek,Sharma,General Surgeon,9944556677,vivek.sharma@hospital.com,20,140000,Surgery,Night,true
+105,Priyanka,Das,Gynecologist,9955667788,priyanka.das@hospital.com,10,120000,Maternity,Morning,true
+106,Nikhil,Bose,Neurologist,9966778899,nikhil.bose@hospital.com,14,160000,ICU,Evening,false
+107,Anita,Kapoor,Pediatrician,9977889900,anita.kapoor@hospital.com,8,110000,General,Morning,true
+108,Sunil,Pandey,Dermatologist,9988990011,sunil.pandey@hospital.com,11,105000,General,Evening,true
+109,Kavya,Menon,Pulmonologist,9999001122,kavya.menon@hospital.com,9,115000,ICU,Night,true
+110,Rohit,Agarwal,Endocrinologist,9900112233,rohit.agarwal@hospital.com,13,125000,General,Morning,false
